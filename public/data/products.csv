@@ -1,0 +1,26 @@
+﻿id,name_ar,name_en,unit_ar,unit_en,icon,color,reference_price,display_order
+011100103,أرز حبة قصيرة,Short grain rice,25 كغم,25 kg,fa-bowl-rice,#2E7D32,0,1
+011100107,أرز حبة طويلة,Long grain rice,5 كغم,5 kg,fa-bowl-rice,#2E7D32,0,2
+011100301,خبز  كماج,Kamaj bread,1 كغم,1 kg,fa-bread-slice,#F44336,0,3
+011210102,لحم عجل طازج,Fresh veal,1 كغم,1 kg,fa-cow,#6D4C41,0,4
+011210201,لحم عجل مجمد,Frozen veal,1 كغم,1 kg,fa-cow,#6D4C41,0,5
+011220102,دجاج منظف,Chicken,1 كغم,1 kg,fa-drumstick-bite,#FB8C00,0,6
+011420303,جبة غنم بيضاء,White lamb cheese,1 كغم,1 kg,fa-sheep,#8E24AA,0,7
+011420308,جبنة بقرية ذات تصنيع آلي,Cow cheese,وقية - 250 غم,1 ounce - 250 g,fa-cheese,#FBC02D,0,8
+011430001,بيض دجاج,Chicken eggs,2 كغم,2 kg,fa-egg,#FFEE58,0,9
+011510203,زيت الذرة,Corn oil,3 لتر,3 liters,fa-oil-can,#1976D2,0,10
+011510204,زيت عباد الشمس,Sunflower oil,3 لتر,3 liters,fa-oil-can,#1976D2,0,11
+011520101,سمنة نباتية,Vegetable ghee,1 كغم,1 kg,fa-cubes,#9E9E9E,0,12
+011800105,سكر,Sugar,10 كغم,10 kg,fa-cubes,#9E9E9E,0,13
+011800202,حلاوة,Halva,1 كغم,1 kg,fa-box,#00897B,0,14
+011930206,طحينية,Tahini,1 كغم,1 kg,fa-box,#00897B,0,15
+011100604,قطايف,Qatayef,1 كغم,1 kg,fa-box,#00897B,0,16
+011101301,فريكة,Freekeh,1 كغم ,1 kg,fa-seedling,#43A047,0,17
+011740201,عدس مجروش,Cracked lentils,1كغم,1 kg,fa-seedling,#43A047,0,18
+011740302,حمص حب,Chickpeas,1كغم,1 kg,fa-seedling,#43A047,0,19
+011210107,لحم خروف طازج,Fresh lamb,1كغم,1 kg,fa-sheep,#8E24AA,0,20
+011210203,لحم خروف مجمد,Frozen lamb,1كغم,1 kg,fa-sheep,#8E24AA,0,21
+011420105,لبن رايب,Yogurt,4 كغم,4 kg,fa-seedling,#43A047,0,22
+011101101,"سميد  نوع""أ""",Semolina (type A),1كغم,1 kg,fa-seedling,#43A047,0,23
+011620302,تمر  مجهول حبة طويلة ,Medjool dates (long grain),1كغم,1 kg,fa-box,#00897B,0,24
+011620303,عجوة,Ajwa,1كغم,1 kg,fa-box,#00897B,0,25
