@@ -109,7 +109,7 @@ export function KPICards({
           text: 'text-red-700',
           value: 'text-red-700',
           icon: <AlertTriangle className="text-red-600" width={34} height={34} />,
-          hint: t(lang, '{t(lang, 'lowCompliance')}'),
+          hint: t(lang, 'lowCompliance'),
         };
 
   const methodText = methodologyText?.trim() ? methodologyText : DEFAULT_METHODOLOGY;
